@@ -1,0 +1,6 @@
+xtarfile
+streamlit
+pandas
+Python-IO
+pybase64
+plotly-express
